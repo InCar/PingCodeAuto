@@ -1,0 +1,19 @@
+{
+  "name": "pingcodeauto",
+  "version": "1.0.0",
+  "description": "learning pingcode rest api",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "test": "ts-node-esm ./main.ts"
+  },
+  "author": "ghxiong@incarcloud.com",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.1.2",
+    "node-fetch": "^3.3.1",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.5.0",
+    "typescript": "^5.0.4"
+  }
+}
